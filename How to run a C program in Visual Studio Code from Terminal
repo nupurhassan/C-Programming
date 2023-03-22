@@ -1,0 +1,23 @@
+
+ Step 1:
+       Go to your terminal ( Command + Space Bar , Type Terminal)
+ Step 2:
+       TYPE THE FOLLOWING IN TERMINAL:
+	  --- code fileName.c
+	  Press return (Enter button)
+Step 3:
+    Go to Visual Studios 
+	   - Click on New File 
+	   - Type your code
+	   - Save it (Press command+S)
+Step 4:
+      TYPE THE FOLLOWING IN TERMINAL:
+	  --- gcc fileName.c
+	   (Now its compiled)
+	   Press return (Enter button)
+Step 5:	 
+      TYPE THE FOLLOWING IN TERMINAL:
+	  --- ./a.out
+      Press return (Enter button)
+	  This will show you the output of the program
+	
